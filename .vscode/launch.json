@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CalcApplication",
+            "request": "launch",
+            "mainClass": "edu.escuelaing.arem.ASE.app.CalcApplication",
+            "projectName": "mvngit"
+        }
+    ]
+}
